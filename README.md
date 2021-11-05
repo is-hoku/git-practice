@@ -6,6 +6,7 @@ Git の練習用リポジトリです。
 メンバー  
 - Hoku Ishibe
 - noon
+- Toru Takagi
 
 ## 練習
 1. 適当なプロジェクトディレクトリを作る
