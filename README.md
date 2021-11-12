@@ -7,6 +7,7 @@ Git の練習用リポジトリです。
 - Hoku Ishibe
 - noon
 - Toru Takagi
+- Arhikiyu
 
 ## 練習
 1. 適当なプロジェクトディレクトリを作る
